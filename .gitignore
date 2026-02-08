@@ -1,0 +1,12 @@
+# OS and editor
+.DS_Store
+Thumbs.db
+*~
+.*.swp
+.*.swo
+*.bak
+
+# Local build or install artifacts at toolchain level (if any)
+/build/
+/install/
+*.log
